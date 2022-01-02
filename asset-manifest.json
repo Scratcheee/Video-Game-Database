@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Video-Game-Database/static/css/main.15038e5d.chunk.css",
+    "main.js": "/Video-Game-Database/static/js/main.8661fe9a.chunk.js",
+    "main.js.map": "/Video-Game-Database/static/js/main.8661fe9a.chunk.js.map",
+    "runtime-main.js": "/Video-Game-Database/static/js/runtime-main.09703056.js",
+    "runtime-main.js.map": "/Video-Game-Database/static/js/runtime-main.09703056.js.map",
+    "static/js/2.1f7e23c0.chunk.js": "/Video-Game-Database/static/js/2.1f7e23c0.chunk.js",
+    "static/js/2.1f7e23c0.chunk.js.map": "/Video-Game-Database/static/js/2.1f7e23c0.chunk.js.map",
+    "static/js/3.41958360.chunk.js": "/Video-Game-Database/static/js/3.41958360.chunk.js",
+    "static/js/3.41958360.chunk.js.map": "/Video-Game-Database/static/js/3.41958360.chunk.js.map",
+    "index.html": "/Video-Game-Database/index.html",
+    "static/css/main.15038e5d.chunk.css.map": "/Video-Game-Database/static/css/main.15038e5d.chunk.css.map",
+    "static/js/2.1f7e23c0.chunk.js.LICENSE.txt": "/Video-Game-Database/static/js/2.1f7e23c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09703056.js",
+    "static/js/2.1f7e23c0.chunk.js",
+    "static/css/main.15038e5d.chunk.css",
+    "static/js/main.8661fe9a.chunk.js"
+  ]
+}
